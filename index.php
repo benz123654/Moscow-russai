@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-        <title>พยากรณ์อากาศ-63118343</title>
+        <title>พยากรณ์อากาศ</title>
         <meta name="viewport" content="initial-scale=1.0">
         <meta charset="utf-8">
         <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
